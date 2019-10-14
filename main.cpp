@@ -4,7 +4,7 @@
 //using namespace LOGGER;
 //CLogger* logger;
 
-EXPORT int HandleInventoryCheck(cube::Creature* player, cube::Item *item) {
+EXPORT int HandleCheckInventoryFull(cube::Creature* player, cube::Item *item) {
     //logger->TraceInfo("Player:%s, Item:%d\n", player->entity_data.name, item->id);
     // 1: full, 2: not full, 0: origin logic
     return 2;
