@@ -1,5 +1,5 @@
 #include "main.h"
-#include "cwmods/cwmods.h"
+#include "../cwmods/cwmods.h"
 //#include "logger.h"
 //using namespace LOGGER;
 //CLogger* logger;

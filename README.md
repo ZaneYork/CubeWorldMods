@@ -1,2 +1,3 @@
 # InfiniteStackMod
-Mod for Cube World beta
+# UnlockMapIconMod
+Mods for Cube World beta
