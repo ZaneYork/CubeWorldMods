@@ -30,10 +30,10 @@ void MapIconSwtich(int i) {
 
 void MapTagSwtich(int i){
     if(!i) {
-        WriteByte( CWBase() + MAP_TAG_DISPLAY_JUMP_OFFSET, OP_JO);
+        WriteByte( CWBase() + MAP_TAG_DISPLAY_JUMP_OFFSET, OP_JZ);
     }
     else {
-        WriteByte( CWBase() + MAP_TAG_DISPLAY_JUMP_OFFSET, OP_JZ);
+        WriteByte( CWBase() + MAP_TAG_DISPLAY_JUMP_OFFSET, OP_JO);
     }
 }
 
