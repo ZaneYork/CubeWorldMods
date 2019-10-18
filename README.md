@@ -2,7 +2,7 @@ Mods for Cube World beta
 ===
 LocalizationMod
 ---
-A mod for localization the game's text resources, works with CSV config file.
+A mod for localize the game's text resources, works with CSV config file.
 CSV config file should be UTF-8 encoding.
 * Column Definition
 
@@ -14,7 +14,7 @@ CSV config file should be UTF-8 encoding.
 |D              |Begin Offset   |Yes     |Search begin offset         |
 |E              |End Offset     |Yes     |Search end offset           |
 
-* About encoding
+* About Encoding
 
 |Encoding Name  |Remark                                     |
 | ------------- |:----------------------------------------- |
