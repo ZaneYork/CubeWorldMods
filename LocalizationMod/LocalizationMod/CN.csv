@@ -1,0 +1,562 @@
+﻿HITS,连击,Unicode,0x440192,
+HIT,连击,Unicode,0x440182,
+Block Power,格挡值,Unicode,0x440128,
+Block,格挡,Unicode,0x44AA32,
+Warrior ,战士 ,Unicode,0x435FF8,
+Warrior,战士,Unicode,0x46C5F8,
+Ranger ,游侠 ,Unicode,0x436010,
+Rogue ,盗贼 ,Unicode,0x436030,
+Mage ,法师 ,Unicode,0x436020,
+Armor,护甲,Unicode,0x46D990,
+Select,选择,Unicode,0x43F8F0,
+Back,返回,Unicode,0x43F8E0,
+Chest,胸部,Unicode,0x43FEF8,
+Pet: ,宠物:,Unicode,0x44CB40,
+Pet,宠物,Unicode,0x436428,
+Pick up,拾取,Unicode,0x435A60,
+Dodge,闪避,Unicode,0x42EC78,
+Not enough money.\n,没有足够的金币.\n,Unicode,0x434AC0,
+You can't carry more of these items.\n,你不能携带更多相同的物品.\n,Unicode,0x434AF0,
+Increases hang gliding speed.,增加滑翔飞行速度.,Unicode,0x435E40,
+Increases sailing speed.,增加航行速度.,Unicode,0x435EB0,
+Increases swimming speed.,增加游泳速度.,Unicode,0x435EE8,
+Increases riding speed.,增加骑行速度.,Unicode,0x435F70,
+Increases the radius of your lamp.,增加提灯照明半径.,Unicode,0x435FA0,
+You consume less stamina when diving.,潜水时消耗更少的体力.,Unicode,0x435F20,
+You can climb faster.,你攀爬速度更快.,Unicode,0x435E80,
+Effect lasts 10 Minutes,效果持续10分钟,Unicode,0x436200,
+ seconds, 秒,Unicode,0x4360B8,
+lore increased to ,传说探索进度增至 ,Unicode,0x436642,
+Ridable,可骑乘,Unicode,0x436040,
+Sleep,睡觉,Unicode,0x436460,
+Stealth,隐身,Unicode,0x440100,
+Mode,模式,Unicode,0x46DFE8,
+VSync,垂直同步,Unicode,0x46E048,
+OK,确定,Unicode,0x46CDEC,
+leave,离开,Unicode,0x46D5E0,
+join,加入,Unicode,0x46D5F0,
+COORDS ,坐标 ,Unicode,0x440070,
+TIME ,时间 ,Unicode,0x440088,
+TEMP ,温度 ,Unicode,0x4400CC,
+HUM ,湿度 ,Unicode,0x4400DC,
+ZOOM 1:,比例 1:,Unicode,0x4400EC,
+You were invited by ,"你收到了邀请,邀请人:",Unicode,0x42E748,
+Normal Attack,普通攻击,Unicode,0x42EBB8,
+Special Attack,特殊攻击,Unicode,0x42EBD8,
+Class Skill,职业技能,Unicode,0x42ECD8,
+Ultimate Skill,终极技能,Unicode,0x42ECB8,
+Use Quick Item,快速使用,Unicode,0x42ED30,
+Move Forward,前进,Unicode,0x42EBF8,
+Move Backward,后退,Unicode,0x42EC18,
+Move Left,左移,Unicode,0x42EC38,
+Move Right,右移,Unicode,0x42EC50,
+Jump,跳,Unicode,0x42EC68,
+Use/Interact,使用/交互,Unicode,0x42EC88,
+Lamp,提灯,Unicode,0x42ECA8,
+Walk,行走,Unicode,0x42ECF0,
+Call Pet,召唤宠物,Unicode,0x42ED00,
+World Map,世界地图,Unicode,0x42ED18,
+Ring Menu,切换菜单,Unicode,0x42ED50,
+Inventory,背包,Unicode,0x42ED68,
+Crafting Menu,制作菜单,Unicode,0x42EDA8,
+System Menu,系统菜单,Unicode,0x42EDC8,
+Multiplayer Menu,多人菜单,Unicode,0x42ED80,
+Zoom In,放大,Unicode,0x42EDE0,
+Zoom Out,缩小,Unicode,0x42EDF0,
+Unassigned,未分配,Unicode,0x42FFE8,
+Exit,退出,Unicode,0x46EFE0,
+Create,创建,Unicode,0x440058,
+Thano,   泰诺,Unicode,0x44C450,0x44C4C0
+Tal, 塔尔,Unicode,0x44C470,0x44C4C0
+Tul,  托,Unicode,0x44C478,0x44C4C0
+Ri, 日,Unicode,0x44C480,0x44C4C0
+Va, 维,Unicode,0x44C488,0x44C4C0
+Wyn, 韦恩,Unicode,0x44C490,0x44C4C0
+Wyr, 威尔,Unicode,0x44C498,0x44C4C0
+Cyd, 希德,Unicode,0x44C4A0,0x44C4C0
+Cyr,希尔达,Unicode,0x44C4A8,0x44C4C0
+mid,米德 ,Unicode,0x44C4B0,0x44C4C0
+Kro, 科尔,Unicode,0x430560,0x431090
+Ari, 阿瑞,Unicode,0x430568,0x431090
+As,阿斯,Unicode,0x430570,0x431090
+Ge, 格,Unicode,0x430578,0x431090
+Kur, 库尔,Unicode,0x430580,0x431090
+Ro, 罗,Unicode,0x430588,0x431090
+Iko,伊科 ,Unicode,0x430590,0x431090
+La, 拉,Unicode,0x430598,0x431090
+Des, 达斯,Unicode,0x4305A0,0x431090
+Var, 瓦尔,Unicode,0x4305A8,0x431090
+An, 安,Unicode,0x4305B0,0x431090
+The,  泽,Unicode,0x4305B8,0x431090
+Ga, 噶,Unicode,0x4305C0,0x431090
+Lan,  兰,Unicode,0x4305C8,0x431090
+Dura,  杜拉,Unicode,0x4305D0,0x431090
+Dama,  达马,Unicode,0x4305E0,0x431090
+Se, 瑟,Unicode,0x4305EC,0x431090
+Thal,  塔尔,Unicode,0x4305F8,0x431090
+Nar, 纳尔,Unicode,0x430608,0x431090
+San,  杉,Unicode,0x430610,0x431090
+Tel, 泰尔,Unicode,0x430618,0x431090
+Ar, 阿,Unicode,0x430620,0x431090
+Mar, 马尔,Unicode,0x430628,0x431090
+Gro, 格罗,Unicode,0x430630,0x431090
+Yu, 云,Unicode,0x430638,0x431090
+Ja, 嘉,Unicode,0x430640,0x431090
+Cor, 蔻尔,Unicode,0x430648,0x431090
+Co, 库,Unicode,0x430650,0x431090
+no,喏 ,Unicode,0x430658,0x431090
+mi,米 ,Unicode,0x430660,0x431090
+la,啦 ,Unicode,0x430668,0x431090
+ria,瑞亚 ,Unicode,0x430670,0x431090
+ron,罗恩 ,Unicode,0x430678,0x431090
+ion,艾恩 ,Unicode,0x430680,0x431090
+kor,侯尔 ,Unicode,0x430688,0x431090
+lon,朗  ,Unicode,0x430690,0x431090
+rok,戎克 ,Unicode,0x430698,0x431090
+tar,塔尔 ,Unicode,0x4306A0,0x431090
+dan,丹  ,Unicode,0x4306A8,0x431090
+gor,高尔 ,Unicode,0x4306B0,0x431090
+dar,达尔 ,Unicode,0x4306B8,0x431090
+dara,达拉  ,Unicode,0x4306C0,0x431090
+lan,  兰,Unicode,0x4306D0,0x431090
+ka,卡 ,Unicode,0x4306D8,0x431090
+rior,喏尔  ,Unicode,0x4306E0,0x431090
+mor,摩尔 ,Unicode,0x4306F0,0x431090
+sen,塞恩 ,Unicode,0x4306F8,0x431090
+dor,道尔 ,Unicode,0x430700,0x431090
+kin,昆恩 ,Unicode,0x430708,0x431090
+len,凌  ,Unicode,0x430710,0x431090
+ber,贝尔 ,Unicode,0x430718,0x431090
+lur,鲁尔 ,Unicode,0x430720,0x431090
+more,摩尔  ,Unicode,0x430728,0x431090
+ris,瑞斯 ,Unicode,0x430738,0x431090
+nis,尼斯 ,Unicode,0x430740,0x431090
+De, 德,Unicode,0x430748,0x431090
+Pat, 帕特,Unicode,0x430750,0x431090
+Wolf, 沃尔夫,Unicode,0x430758,0x431090
+Ale, 阿勒,Unicode,0x430768,0x431090
+Mi, 米,Unicode,0x430770,0x431090
+Ben,  本,Unicode,0x430778,0x431090
+rek,雷克 ,Unicode,0x430780,0x431090
+man,曼  ,Unicode,0x430788,0x431090
+gram,古莱姆 ,Unicode,0x430790,0x431090
+rald,拉尔德 ,Unicode,0x4307A0,0x431090
+rick,里克  ,Unicode,0x4307B0,0x431090
+ram,拉姆 ,Unicode,0x4307C0,0x431090
+sander,桑德    ,Unicode,0x4307C8,0x431090
+kal,卡尔 ,Unicode,0x4307D8,0x431090
+ton,托恩 ,Unicode,0x4307E0,0x431090
+ny,纳 ,Unicode,0x4307E8,0x431090
+Sa, 萨,Unicode,0x4307F0,0x431090
+Jen,约恩 ,Unicode,0x4307F8,0x431090
+Kla, 卡拉,Unicode,0x430800,0x431090
+Auri,  奥利,Unicode,0x430808,0x431090
+Mela,  梅拉,Unicode,0x430818,0x431090
+Alu, 阿鲁,Unicode,0x430828,0x431090
+Ve, 维,Unicode,0x430830,0x431090
+Est,伊斯特,Unicode,0x430838,0x431090
+rah,拉亨 ,Unicode,0x430840,0x431090
+elle,挨勒  ,Unicode,0x430848,0x431090
+na,纳 ,Unicode,0x430854,0x431090
+ga,噶 ,Unicode,0x43085C,0x431090
+ma,玛 ,Unicode,0x430864,0x431090
+riana,瑞阿纳  ,Unicode,0x430870,0x431090
+rona,罗娜  ,Unicode,0x430880,0x431090
+una,尤娜 ,Unicode,0x430890,0x431090
+El, 伊,Unicode,0x430898,0x431090
+Li, 里,Unicode,0x4308A0,0x431090
+Dri,德里 ,Unicode,0x4308A8,0x431090
+Elan,  艾连,Unicode,0x4308B0,0x431090
+Le, 乐,Unicode,0x4308BC,0x431090
+Ly, 勒,Unicode,0x4308C4,0x431090
+Tho,  索,Unicode,0x4308D0,0x431090
+Da, 达,Unicode,0x4308D8,0x431090
+Les, 勒丝,Unicode,0x4308E0,0x431090
+ric,瑞克 ,Unicode,0x4308E8,0x431090
+kun,昆  ,Unicode,0x4308F0,0x431090
+zic,扎克 ,Unicode,0x4308F8,0x431090
+las,拉斯 ,Unicode,0x430900,0x431090
+reon,瑞安  ,Unicode,0x430908,0x431090
+reas,瑞阿斯 ,Unicode,0x430918,0x431090
+lundra,伦达拉   ,Unicode,0x430928,0x431090
+andor,安多尔  ,Unicode,0x430938,0x431090
+Si, 斯,Unicode,0x430944,0x431090
+Mer, 梅尔,Unicode,0x430950,0x431090
+Lu, 卢,Unicode,0x430958,0x431090
+Su, 苏,Unicode,0x430960,0x431090
+Sira,  塞拉,Unicode,0x430968,0x431090
+Hia, 海拉,Unicode,0x430978,0x431090
+weya,维亚  ,Unicode,0x430980,0x431090
+luna,卢娜  ,Unicode,0x430990,0x431090
+laya,拉亚  ,Unicode,0x4309A0,0x431090
+leya,雷亚  ,Unicode,0x4309B0,0x431090
+lia,里亚 ,Unicode,0x4309C0,0x431090
+matra,马特拉  ,Unicode,0x4309C8,0x431090
+vy,韦 ,Unicode,0x4309D4,0x431090
+zyna,齐纳  ,Unicode,0x4309E0,0x431090
+ly,黎 ,Unicode,0x4309EC,0x431090
+Gra, 格拉,Unicode,0x4309F8,0x431090
+Xe, 歇,Unicode,0x430A00,0x431090
+Ur,乌尔,Unicode,0x430A08,0x431090
+Bel, 贝尔,Unicode,0x430A10,0x431090
+Chu,  楚,Unicode,0x430A18,0x431090
+Ki, 克,Unicode,0x430A20,0x431090
+Go, 贡,Unicode,0x430A28,0x431090
+Zim, 仄姆,Unicode,0x430A30,0x431090
+Kubo,  库伯,Unicode,0x430A38,0x431090
+Raz, 拉兹,Unicode,0x430A48,0x431090
+nax,纳西 ,Unicode,0x430A50,0x431090
+tik,提克 ,Unicode,0x430A58,0x431090
+tuk,图克 ,Unicode,0x430A60,0x431090
+ruk,卢库 ,Unicode,0x430A68,0x431090
+bo,博 ,Unicode,0x430A70,0x431090
+rix,瑞希 ,Unicode,0x430A78,0x431090
+tok,特科 ,Unicode,0x430A80,0x431090
+nor,诺尔 ,Unicode,0x430A88,0x431090
+Am,艾玛,Unicode,0x430A90,0x431090
+Zifa,  泽法,Unicode,0x430A98,0x431090
+Zu, 祖,Unicode,0x430AA4,0x431090
+Ma, 玛,Unicode,0x430AAC,0x431090
+Chi,  赤,Unicode,0x430AB8,0x431090
+Zi, 兹,Unicode,0x430AC0,0x431090
+Mia, 米拉,Unicode,0x430AC8,0x431090
+ra,让 ,Unicode,0x430AD0,0x431090
+bi,毕 ,Unicode,0x430AD8,0x431090
+ba,巴 ,Unicode,0x430AE0,0x431090
+ki,肯 ,Unicode,0x430AE8,0x431090
+bara,巴拉  ,Unicode,0x430AF0,0x431090
+zy,彦 ,Unicode,0x430AFC,0x431090
+xa,夏 ,Unicode,0x430B04,0x431090
+Cho,  超,Unicode,0x430B10,0x431090
+Zer, 泽瑞,Unicode,0x430B18,0x431090
+Kaz, 卡兹,Unicode,0x430B20,0x431090
+Kraz, 凯瑞兹,Unicode,0x430B28,0x431090
+Zel, 仄勒,Unicode,0x430B38,0x431090
+Drak, 狄拉克,Unicode,0x430B40,0x431090
+Lo, 洛,Unicode,0x430B4C,0x431090
+Spi, 瑟皮,Unicode,0x430B58,0x431090
+Zen, 夂恩,Unicode,0x430B60,0x431090
+rux,路西 ,Unicode,0x430B68,0x431090
+tac,塔茨 ,Unicode,0x430B70,0x431090
+mec,梅茨 ,Unicode,0x430B78,0x431090
+rax,柆西 ,Unicode,0x430B80,0x431090
+zor,邹尔 ,Unicode,0x430B88,0x431090
+ro,容 ,Unicode,0x430B90,0x431090
+go,工 ,Unicode,0x430B98,0x431090
+Az, 吖,Unicode,0x430BA0,0x431090
+Iza,旯吒 ,Unicode,0x430BA8,0x431090
+May, 玛依,Unicode,0x430BB0,0x431090
+Zan,  赞,Unicode,0x430BB8,0x431090
+rya,日亚 ,Unicode,0x430BC0,0x431090
+ri,驲 ,Unicode,0x430BC8,0x431090
+zia,兹阿 ,Unicode,0x430BD0,0x431090
+mah,玛哈 ,Unicode,0x430BD8,0x431090
+ira,依拉 ,Unicode,0x430BE0,0x431090
+maya,玛雅  ,Unicode,0x430BE8,0x431090
+ana,安娜 ,Unicode,0x430BF8,0x431090
+ya,娅 ,Unicode,0x430C00,0x431090
+Tor, 托尔,Unicode,0x430C08,0x431090
+Gem, 格姆,Unicode,0x430C10,0x431090
+Bar, 巴尔,Unicode,0x430C18,0x431090
+Me, 么,Unicode,0x430C20,0x431090
+Tem, 特姆,Unicode,0x430C28,0x431090
+Arak, 安茹卡,Unicode,0x430C30,0x431090
+Grim, 格瑞姆,Unicode,0x430C40,0x431090
+Xor,西欧尔,Unicode,0x430C50,0x431090
+lox, 隆西,Unicode,0x430C58,0x431090
+bart,巴尔特 ,Unicode,0x430C60,0x431090
+thos,塞斯  ,Unicode,0x430C70,0x431090
+bur,布拉 ,Unicode,0x430C80,0x431090
+thor,索尔  ,Unicode,0x430C88,0x431090
+lok,侬科 ,Unicode,0x430C98,0x431090
+li,丽 ,Unicode,0x430CA0,0x431090
+bor,波尔 ,Unicode,0x430CA8,0x431090
+Mum, 姆玛,Unicode,0x430CB0,0x431090
+Grun,  格纶,Unicode,0x430CB8,0x431090
+Brun,  布伦,Unicode,0x430CC8,0x431090
+Hei,  黑,Unicode,0x430CD8,0x431090
+Mo, 莫,Unicode,0x430CE0,0x431090
+Hil, 黑欧,Unicode,0x430CE8,0x431090
+Lum, 鲁姆,Unicode,0x430CF0,0x431090
+pie,皮尔 ,Unicode,0x430CF8,0x431090
+hild,希尔达 ,Unicode,0x430D00,0x431090
+di,笛 ,Unicode,0x430D0C,0x431090
+muna,穆娜  ,Unicode,0x430D18,0x431090
+trud,特鲁德 ,Unicode,0x430D28,0x431090
+sa,萨 ,Unicode,0x430D34,0x431090
+axa,阿克沙,Unicode,0x430D40,0x431090
+ika,伊卡 ,Unicode,0x430D48,0x431090
+Uz, 尹,Unicode,0x430D50,0x431090
+Ku, 酷,Unicode,0x430D58,0x431090
+Mor,摩尔 ,Unicode,0x430D60,0x431090
+Ura, 尤拉,Unicode,0x430D68,0x431090
+Ak,艾克,Unicode,0x430D70,0x431090
+Or,欧瑞,Unicode,0x430D78,0x431090
+Gor,高尔 ,Unicode,0x430D80,0x431090
+ku,库 ,Unicode,0x430D88,0x431090
+muk,慕科 ,Unicode,0x430D90,0x431090
+thak,思尔科 ,Unicode,0x430D98,0x431090
+dok,杜克 ,Unicode,0x430DA8,0x431090
+tor, 托尔,Unicode,0x430DB0,0x431090
+rorok,肉肉科  ,Unicode,0x430DB8,0x431090
+chak,查克  ,Unicode,0x430DC8,0x431090
+kaz, 卡兹,Unicode,0x430DD8,0x431090
+rack,拉克  ,Unicode,0x430DE0,0x431090
+rua,卢艾 ,Unicode,0x430DF0,0x431090
+mua,姆艾 ,Unicode,0x430DF8,0x431090
+thara,沙拉   ,Unicode,0x430E00,0x431090
+daka,达卡  ,Unicode,0x430E10,0x431090
+tah,塔哈 ,Unicode,0x430E20,0x431090
+rorah,咯拉哈  ,Unicode,0x430E28,0x431090
+chaka,查卡   ,Unicode,0x430E38,0x431090
+kaya,卡亚  ,Unicode,0x430E48,0x431090
+rana,拉阿纳 ,Unicode,0x430E58,0x431090
+Dro, 多尔,Unicode,0x430E68,0x431090
+Al,阿里,Unicode,0x430E70,0x431090
+Dem, 德牧,Unicode,0x430E78,0x431090
+Mur, 木尔,Unicode,0x430E80,0x431090
+Cro, 茨咯,Unicode,0x430E88,0x431090
+Zul, 阻勒,Unicode,0x430E90,0x431090
+Dra,达鲁拉,Unicode,0x430E98,0x431090
+lu,路 ,Unicode,0x430EA0,0x431090
+card,卡德  ,Unicode,0x430EA8,0x431090
+morius,摩瑞斯   ,Unicode,0x430EB8,0x431090
+enius,恩尤斯  ,Unicode,0x430EC8,0x431090
+tus,图斯 ,Unicode,0x430ED8,0x431090
+demar,德马尔  ,Unicode,0x430EE0,0x431090
+lus,鲁斯 ,Unicode,0x430EF0,0x431090
+ruul,鲁   ,Unicode,0x430EF8,0x431090
+zad,查德 ,Unicode,0x430F08,0x431090
+Xu, 虚,Unicode,0x430F10,0x431090
+Myr, 迈尔,Unicode,0x430F18,0x431090
+Cra, 迈拉,Unicode,0x430F20,0x431090
+Thu, 斯尤,Unicode,0x430F28,0x431090
+kira,里拉  ,Unicode,0x430F30,0x431090
+cara,蔡拉  ,Unicode,0x430F40,0x431090
+moria,茉莉尔  ,Unicode,0x430F50,0x431090
+ena,恩娜 ,Unicode,0x430F60,0x431090
+tana,塔纳  ,Unicode,0x430F68,0x431090
+diria,迪瑞尔  ,Unicode,0x430F78,0x431090
+laza,剌赞  ,Unicode,0x430F88,0x431090
+zazah,扎扎汗  ,Unicode,0x430F98,0x431090
+Qua,  曲,Unicode,0x430FA8,0x431090
+Rib, 瑞比,Unicode,0x430FB0,0x431090
+Quib,  丘比,Unicode,0x430FB8,0x431090
+Zib, 兹比,Unicode,0x430FC8,0x431090
+Il, 哎,Unicode,0x430FD0,0x431090
+Wok, 沃克,Unicode,0x430FD8,0x431090
+Wib, 维比,Unicode,0x430FE0,0x431090
+Moko,  摩空,Unicode,0x430FE8,0x431090
+Sli, 斯里,Unicode,0x430FF8,0x431090
+Bul, 波卢,Unicode,0x431000,0x431090
+rik,里克 ,Unicode,0x431008,0x431090
+bit,比特 ,Unicode,0x431010,0x431090
+ble,比利 ,Unicode,0x431018,0x431090
+bik,比克 ,Unicode,0x431020,0x431090
+wak,瓦克 ,Unicode,0x431028,0x431090
+wok, 沃克,Unicode,0x431030,0x431090
+wib, 维比,Unicode,0x431038,0x431090
+luk,卢卡 ,Unicode,0x431040,0x431090
+mey,美亚 ,Unicode,0x431048,0x431090
+bak,巴卡 ,Unicode,0x431050,0x431090
+bia,拜亚 ,Unicode,0x431058,0x431090
+bla,波亚 ,Unicode,0x431060,0x431090
+waka,瓦卡  ,Unicode,0x431068,0x431090
+woka,沃卡  ,Unicode,0x431078,0x431090
+wibba,维巴   ,Unicode,0x431088,0x4310A0
+lua,路亚 ,Unicode,0x431098,0x4310A0
+Requires water,需要水,Unicode,0x46bd30,
+Requires Spinning Wheel,需要纺车,Unicode,0x46bd50,
+Requires Loom,需要纺织机,Unicode,0x46bd80,
+Requires Furnace,需要熔炉,Unicode,0x46bda0,
+Requires Anvil,需要铁砧,Unicode,0x46bdc8,
+Requires Saw,需要锯子,Unicode,0x46bde8,
+Requires Workbench,需要工作台,Unicode,0x46be08,
+Requires Campfire,需要篝火,Unicode,0x46be30,
+New character,新建角色,Unicode,0x46c050,
+Specialization: ,职业专精: ,Unicode,0x46c0c8,
+Human,人类,Unicode,0x46c558,
+Goblin,地精,Unicode,0x46c588,
+Lizard,蜥蜴人,Unicode,0x46c598,
+Undead,不死族,Unicode,0x46c5a8,
+Frogman,蛙人,Unicode,0x46c5b8,
+Gender,性别,Unicode,0x46c5e8,
+Ranger,游侠,Unicode,0x46c608,
+Rogue,盗贼,Unicode,0x46c628,
+Class,职业,Unicode,0x46c638,
+Face,脸部,Unicode,0x46c658,
+Haircut,发型,Unicode,0x46c680,
+Hair color,发色,Unicode,0x46c690,
+LEVEL ,等级 ,Unicode,0x46c930,
+Weapon Level,武器评级,Unicode,0x46c940,
+Armor Level,防具评级,Unicode,0x46c960,
+HIT POINTS,生命值,Unicode,0x46c990,
+SPELL POWER ,技能强度 ,Unicode,0x46c9a8,
+ATTACK POWER ,攻击力 ,Unicode,0x46c9c8,
+ARMOR,护甲,Unicode,0x46c9e8,
+RESISTANCE,抗性,Unicode,0x46c9f8,
+CRITICAL,暴击,Unicode,0x46ca10,
+HASTE,攻速,Unicode,0x46ca28,
+REGENERATION,回复,Unicode,0x46ca38,
+MANA GENERATION,魔法回复,Unicode,0x46ca58,
+Hang Gliding Speed,滑翔速度,Unicode,0x46ca78,
+Climbing Speed,攀爬速度,Unicode,0x46caa0,
+Sailing Speed,航行速度,Unicode,0x46cac0,
+Swimming Speed,游泳速度,Unicode,0x46cae0,
+Diving Skill,潜水技巧,Unicode,0x46cb00,
+Riding Speed,骑行速度,Unicode,0x46cb20,
+Light Radius,照明半径,Unicode,0x46cb40,
+Defaults,默认,Unicode,0x46cdd8,
+Identification,鉴定,Unicode,0x46d020,
+[25 STAMINA],[25 点耐力],Unicode,0x46d218,
+[ALL MP],[全部魔法],Unicode,0x46d248,
+[CHARGE],[蓄力],Unicode,0x46d260,
+[STAMINA],[耐力],Unicode,0x46d288,
+Move + ,移动 + ,Unicode,0x46d2a0,
+Hold ,按住 ,Unicode,0x46d278,
+Tap ,按 ,Unicode,0x46d2b0,
+[100 STAMINA],[100 点耐力],Unicode,0x46d2c0,
+[100 MANA],[100 点魔法],Unicode,0x46d2e0,
+[50 STAMINA],[50点 耐力],Unicode,0x46d2f8,
+Call/Ride Pet,召唤/骑乘,Unicode,0x46d318,
+Leave,离开,Unicode,0x46d558,
+Friends,朋友,Unicode,0x46d568,
+ (joined),?(已加入),Unicode,0x46d588,
+ (invited),?(已邀请),Unicode,0x46d5a0,
+uninvite,取消邀请,Unicode,0x46d5b8,
+invite,邀请,Unicode,0x46d5d0,
+Equipment,装备,Unicode,0x46d8e8,
+Ingredients,材料,Unicode,0x46d910,
+Specials,特殊,Unicode,0x46d938,
+Artifacts,神器,Unicode,0x46d950,
+Crafting: , 制作:,Unicode,0x46d968,
+Weapons,武器,Unicode,0x46d980,
+Amulets,饰品,Unicode,0x46d9a0,
+Cooking,烹饪,Unicode,0x46d9b0,
+Alchemy,炼药,Unicode,0x46d9c0,
+Repair,修理,Unicode,0x46d9d0,
+Formulas,配方,Unicode,0x46d9e0,
+Vendor,商人,Unicode,0x46d9f8,
+Apply,应用,Unicode,0x46dfa8,
+Windowed,窗口化,Unicode,0x46dfb8,
+Fullscreen,全屏,Unicode,0x46dfd0,
+Resolution,分辨率,Unicode,0x46dff8,
+Refresh Rate,刷新率,Unicode,0x46e018,
+Render Distance,渲染距离,Unicode,0x46e058,
+REDUCED,减少,Unicode,0x46e088,
+CPU Usage,CPU 使用率,Unicode,0x46e098,
+Sound FX Volume,音效音量,Unicode,0x46e0b0,
+Music Volume,音乐音量,Unicode,0x46e0d0,
+Camera Speed,镜头速度,Unicode,0x46e108,
+Camera Smoothness,镜头平滑度,Unicode,0x46e128,
+sInvert Y Axis,反转Y轴,Unicode,0x46e14e,
+FPS Limit,限制FPS,Unicode,0x46e178,
+Language,语言,Unicode,0x46e190,
+Rarity,稀有,Unicode,0x46e1c8,
+Currently equipped:,当前装备:,Unicode,0x46e528,
+Lore ,探索,Unicode,0x46e7e0,
+Flight point,飞行点,Unicode,0x46e7f0,
+Distance: ,距离:,Unicode,0x46e810,
+Flight time: ,飞行时间:,Unicode,0x46e828,
+Purchase for: ,购买:,Unicode,0x46e858,
+Cost: ,花费: ,Unicode,0x46e878,
+Start Game,开始游戏,Unicode,0x46efa0,
+Continue,继续,Unicode,0x46efb8,
+Options,设置,Unicode,0x46efd0,
+Controls,控制,Unicode,0x46f228,
+Start Menu,开始菜单,Unicode,0x46f240,
+Exit Game,退出游戏,Unicode,0x46f258,
+Weapon Customization,武器定制,Unicode,0x46f450,
+Elf,精灵,Unicode,0x46c568,
+Dwarf,矮人,Unicode,0x46c570,
+Orc,兽人,Unicode,0x46c580,
+Mage,法师,Unicode,0x46c618,
+ (host), (主机),Unicode,0x46d578,
+Pets,宠物,Unicode,0x46d928,
+Left\nWeapon,左手武器,Unicode,0x43fe68,
+Right\nWeapon,右手武器,Unicode,0x43fe80,
+Left Ring,左手,Unicode,0x43fea0,
+Right Ring,右手,Unicode,0x43feb8,
+Neck,颈部,Unicode,0x43fed0,
+Shoulder,肩部,Unicode,0x43fee0,
+Hands,手部,Unicode,0x43ff08,
+Feet,脚部,Unicode,0x43ff18,
+Fall,落下,Unicode,0x4363a8,
+Climb,攀爬,Unicode,0x4363b8,
+Revive,复活,Unicode,0x4363c8,
+Throw,投掷,Unicode,0x4363d8,
+Examine,检查,Unicode,0x4363e8,
+Talk,交谈,Unicode,0x436418,
+Open,打开,Unicode,0x436448,
+Use,使用,Unicode,0x436458,
+Close,关闭,Unicode,0x436478,
+Sit,坐下,Unicode,0x436488,
+You receive ,你获得了,Unicode,0x436368,
+receives ,获得了,Unicode,0x43638a,
+Full,已满,Unicode,0x435a50,
+Cancel,取消,Unicode,0x435b50,
+[Gem Trader],[宝石商人],Unicode,0x435d08,
+[Armor Vendor],[防具商人],Unicode,0x435bf2,
+[Weapon Vendor],[武器商人],Unicode,0x435bd0,
+[Item Vendor],[杂货商人],Unicode,0x435bb0,
+[Guild Receptionist],[公会导师],Unicode,0x435cd8,
+[Flight Master],[飞行大师],Unicode,0x435cb8,
+[Innkeeper],[旅店老板],Unicode,0x435c28,
+[Analyzer],[鉴定大师],Unicode,0x435c10,
+[Tailor],[裁缝],Unicode,0x435ca0,
+[Carpenter],[木匠],Unicode,0x435c88,
+[Smith],[铁匠],Unicode,0x435c78,
+Items,物品,Unicode,0x46d900,
+Furnace,熔炉,Unicode,0x4364d0,
+Anvil,铁砧,Unicode,0x4364e0,
+Spinning Wheel,纺车,Unicode,0x4364f0,
+Loom,织布机,Unicode,0x436510,
+Saw,锯子,Unicode,0x436520,
+Workbench,工作台,Unicode,0x436528,
+Customization Bench,定制台,Unicode,0x436540,
+Campfire,篝火,Unicode,0x436568,
+Possessed ,魔化的,Unicode,0x435e18,
+Upgrades ,升级 ,Unicode,0x46f480,
+ARMOR +20%,8283202b323025,ASCII_HEX,0x436130,
+ARMOR ,828320,ASCII_HEX,0x43606C,
+RESISTANCE +20%,8c8d202b323025,ASCII_HEX,0x436140,
+RESISTANCE ,8c8d20,ASCII_HEX,0x436078,
+HP +20%,8687202b323025,ASCII_HEX,0x436118,
+HP ,868720,ASCII_HEX,0x436084,
+HASTE ,888920,ASCII_HEX,0x43608C,
+CRITICAL ,8A8B20,ASCII_HEX,0x436098,
+REGENERATION ,848520,ASCII_HEX,0x4360A8,
+DAMAGE +20%,8081202b323025,ASCII_HEX,0x436120,
+DAMAGE ,808120,ASCII_HEX,0x436050,
+DAMAGE ,808120,ASCII_HEX,0x436061,
+Restores health over ,8485868720,ASCII_HEX,0x4360D0,
+A refreshing drink that helps against extreme heat.,8E912C9293948F2E,ASCII_HEX,0x436150,
+A warming drink that helps against extreme coldness.,8F912C9293958E2E,ASCII_HEX,0x436188,
+A very healthy drink that helps against toxic environments.,90912C929396972E,ASCII_HEX,0x4361C0,
+Human,9899,ASCII_HEX,0x46C06C,
+Elf,9A9B,ASCII_HEX,0x46C074,
+Orc,9C98,ASCII_HEX,0x46C078,
+Dwarf,9D98,ASCII_HEX,0x46C07C,
+Goblin,9E9A,ASCII_HEX,0x46C084,
+Lizardman,BCBD98,ASCII_HEX,0x46C090,
+Undead,9F9B,ASCII_HEX,0x46C09C,
+Warrior,BEBF,ASCII_HEX,0x46C0A8,
+Ranger,C0C1,ASCII_HEX,0x46C0B0,
+Rogue,C2C3,ASCII_HEX,0x46C0B8,
+Mage,C4C5,ASCII_HEX,0x46C0C0,
+Specialization,D4D5D69A,ASCII_HEX,0x46C980,
+Class,D4D5,ASCII_HEX,0x46C978,
+Berserker,C6BEBF,ASCII_HEX,0x46C0F0,
+Guardian,C7C8C9,ASCII_HEX,0x46C100,
+Sniper,CACBD3,ASCII_HEX,0x46C10C,
+Scout,CCCD,ASCII_HEX,0x46C114,
+Fire Mage,CEC4C5,ASCII_HEX,0x46C120,
+Water Mage,CFC4C5,ASCII_HEX,0x46C130,
+Assassin,D0D1,ASCII_HEX,0x46C140,
+Ninja,C2C8,ASCII_HEX,0x46C14C,
+BLOCK,DBDC,ASCII_HEX,0x434B74,
+ABSORB,DDDE,ASCII_HEX,0x434B84,
+GOLD ,DFE0,ASCII_HEX,0x46B625,
+ GOLD,DFE0,ASCII_HEX,0x43518C,
+COST: ,E1E23A,ASCII_HEX,0x46B61C,
+Identify,D8D9,ASCII_HEX,0x46D040,
