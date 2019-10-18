@@ -1,6 +1,8 @@
 Mods for Cube World beta
 ===
-LocalizationMod
+Depends on [Cube-World-Mod-Launcher](https://github.com/ChrisMiuchiz/Cube-World-Mod-Launcher)
+
+Localization Mod
 ---
 A mod for localize the game's text resources, works with CSV config file.
 CSV config file should be UTF-8 encoding.
@@ -23,8 +25,8 @@ CSV config file should be UTF-8 encoding.
 |ASCII_HEX      |Same as ASCII,replace text encoded with hex|
   
 
-UnlockMapIconMod
+Unlock Map Icon Mod
 ---
-InfiniteStackMod
+Infinite Stack Mod
 ---
 
