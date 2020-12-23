@@ -31,7 +31,7 @@ Unlock Map Icon Mod
 ### Commands:
 
 ```
-/map <ico|tag|all> <0/1>
+/map <ico|tag|all> <0|1>
 ```
 ### Examples:
 ```
