@@ -27,6 +27,45 @@ CSV config file should be UTF-8 encoding.
 
 Unlock Map Icon Mod
 ---
+
+### Commands:
+
+```
+/map <ico|tag|all> <0/1>
+```
+### Examples:
+```
+/map ico 0
+/map all 1
+```
+
 Infinite Stack Mod
 ---
+
+
+
+Change Specialization Mod
+---
+
+### Commands:
+
+```
+/trans class <class_type>
+/trans spec <0|1>
+```
+
+Class Types:
+|Type ID |Name         |
+| ------ |:----------- |
+|1       |Warrior(战士)|
+|2       |Ranger(游侠) |
+|3       |Mage(法师)   |
+|4       |Rogue(盗贼)  |
+
+### Examples:
+```
+/trans class 2
+/trans spec 1
+```
+
 
