@@ -1,0 +1,5 @@
+cmake_minimum_required (VERSION 3.8)
+project(project_InfiniteStackMod)
+add_subdirectory(CWSDK)
+add_library (InfiniteStackMod SHARED "main.cpp")
+target_link_libraries (InfiniteStackMod LINK_PUBLIC CWSDK)

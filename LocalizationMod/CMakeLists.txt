@@ -1,0 +1,5 @@
+cmake_minimum_required (VERSION 3.8)
+project(project_LocalizationMod)
+add_subdirectory(CWSDK)
+add_library (LocalizationMod SHARED "main.cpp" "logger.cpp" "utfconvert.cpp" "CCSVParse.cpp")
+target_link_libraries (LocalizationMod LINK_PUBLIC CWSDK)

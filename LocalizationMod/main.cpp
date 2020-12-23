@@ -1,4 +1,5 @@
 #include "main.h"
+#include "CWSDK/cwsdk.h"
 
 #ifndef NO_DEBUG_LOG
 using namespace LOGGER;
@@ -9,6 +10,10 @@ char GLOBAL_BUFFER[1024];
 #define ADD_BASE_OFFSET (BASE_OFFSET < 0 ? 0 : BASE_OFFSET)
 
 int BASE_OFFSET = -1;
+
+void* Offset(void* x1, uint64_t x2) {
+    return (void*)((char*)x1 + x2);
+}
 
 std::vector<std::vector<std::string>> GetLocalizationProperties(){
     std::ifstream configFile("Mods\\LocalizationMod\\config.txt");
@@ -125,7 +130,7 @@ void FindAndReplaceString(std::vector<std::vector<std::string>> entrys){
                 size_t target_len = utf16_to_char(u16target, output);
                 zeroFill(output, target_len, str_len);
                 HexOutput(output, target_len);
-                MemoryHelper::PatchMemory(CWBase() + BASE_OFFSET + range_begin + targetOffset, (void*)output, str_len);
+                MemoryHelper::PatchMemory(Offset(CWBase(), BASE_OFFSET + range_begin + targetOffset), (void*)output, str_len);
             }
 #ifndef NO_DEBUG_LOG
             else {
@@ -158,7 +163,7 @@ void FindAndReplaceString(std::vector<std::vector<std::string>> entrys){
 #ifndef NO_DEBUG_LOG
                 HexOutput(output, str_len);
 #endif // NO_DEBUG_LOG
-                MemoryHelper::PatchMemory(CWBase() + BASE_OFFSET + range_begin + targetOffset, (void*)output, str_len);
+                MemoryHelper::PatchMemory(Offset(CWBase(), BASE_OFFSET + range_begin + targetOffset), (void*)output, str_len);
             }
 #ifndef NO_DEBUG_LOG
             else {
@@ -191,7 +196,7 @@ void FindAndReplaceString(std::vector<std::vector<std::string>> entrys){
 #ifndef NO_DEBUG_LOG
                 HexOutput(output, str_len);
 #endif // NO_DEBUG_LOG
-                MemoryHelper::PatchMemory(CWBase() + BASE_OFFSET + range_begin + targetOffset, (void*)output, str_len);
+                MemoryHelper::PatchMemory(Offset(CWBase(), BASE_OFFSET + range_begin + targetOffset), (void*)output, str_len);
             }
 #ifndef NO_DEBUG_LOG
             else {
@@ -204,14 +209,21 @@ void FindAndReplaceString(std::vector<std::vector<std::string>> entrys){
     }
 }
 
-EXPORT void ModInitialize() {
-    if(BASE_OFFSET != -1) {
-        return;
-    }
-    BASE_OFFSET = -2;
+
+class Mod : GenericMod {
+    virtual void Initialize() override {
+        if (BASE_OFFSET != -1) {
+            return;
+        }
+        BASE_OFFSET = -2;
 #ifndef NO_DEBUG_LOG
-    logger = new CLogger(LogLevel_Info,CLogger::GetAppPathA() + "Mods\\LocalizationMod\\");
-    logger->ChangeLogLevel(LOGGER::LogLevel_Info);
+        logger = new CLogger(LogLevel_Info, CLogger::GetAppPathA() + "Mods\\LocalizationMod\\");
+        logger->ChangeLogLevel(LOGGER::LogLevel_Info);
 #endif // NO_DEBUG_LOG
-    FindAndReplaceString(GetLocalizationProperties());
+        FindAndReplaceString(GetLocalizationProperties());
+    }
+};
+
+EXPORT Mod* MakeMod() {
+    return new Mod();
 }

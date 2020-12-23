@@ -1,0 +1,5 @@
+cmake_minimum_required (VERSION 3.8)
+project(project_ChangeSpecializationMod)
+add_subdirectory(CWSDK)
+add_library (ChangeSpecializationMod SHARED "main.cpp")
+target_link_libraries (ChangeSpecializationMod LINK_PUBLIC CWSDK)

@@ -1,5 +1,5 @@
 #include "main.h"
-#include "../cwmods/cwmods.h"
+#include "CWSDK/cwsdk.h"
 
 #define MAP_ICON_DISPLAY_JUMP_OFFSET 0x5F6AE
 #define MAP_TAG_DISPLAY_JUMP_OFFSET 0x283CE8
@@ -19,25 +19,29 @@ void ModMessage(const wchar_t* message) {
     game->PrintMessage(message);
 }
 
+void* Offset(void* x1, uint64_t x2) {
+    return (void*)((char*)x1 + x2);
+}
+
 void MapIconSwtich(int i) {
     if(!i) {
-        WriteByte( CWBase() + MAP_ICON_DISPLAY_JUMP_OFFSET, OP_JNZ);
+        WriteByte(Offset(CWBase(), MAP_ICON_DISPLAY_JUMP_OFFSET), OP_JNZ);
     }
     else {
-        WriteByte( CWBase() + MAP_ICON_DISPLAY_JUMP_OFFSET, OP_JMP);
+        WriteByte(Offset(CWBase(), MAP_ICON_DISPLAY_JUMP_OFFSET), OP_JMP);
     }
 }
 
 void MapTagSwtich(int i){
     if(!i) {
-        WriteByte( CWBase() + MAP_TAG_DISPLAY_JUMP_OFFSET, OP_JZ);
+        WriteByte(Offset(CWBase(), MAP_TAG_DISPLAY_JUMP_OFFSET), OP_JZ);
     }
     else {
-        WriteByte( CWBase() + MAP_TAG_DISPLAY_JUMP_OFFSET, OP_JO);
+        WriteByte(Offset(CWBase(), MAP_TAG_DISPLAY_JUMP_OFFSET), OP_JO);
     }
 }
 
-EXPORT int HandleChat(wchar_t* msg) {
+int HandleChat(wchar_t* msg) {
     wchar_t response[256];
     int state;
 
@@ -74,7 +78,17 @@ EXPORT int HandleChat(wchar_t* msg) {
 }
 
 
-EXPORT void ModInitialize() {
-    MapIconSwtich(1);
-    MapTagSwtich(1);
+class Mod : GenericMod {
+    virtual void Initialize() override {
+        MapIconSwtich(1);
+        MapTagSwtich(1);
+    }
+    virtual int OnChat(std::wstring* message) override {
+        wchar_t* msg = (wchar_t*)message->c_str();
+        return HandleChat(msg);
+    }
+};
+
+EXPORT Mod* MakeMod() {
+    return new Mod();
 }

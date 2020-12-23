@@ -23,13 +23,13 @@ extern "C"
 }
 #endif
 
-#include "../cwmods/cwmods.h"
+#include "CWSDK/cwsdk.h"
 #include <fstream>
 #include "CCSVParse.h"
 #include "kmp.hpp"
 #include "MemoryHelper.h"
 #include "utfconvert.h"
-#include "../logger.h"
+#include "logger.h"
 
 #define NO_DEBUG_LOG
 
