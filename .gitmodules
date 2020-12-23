@@ -1,0 +1,12 @@
+[submodule "ChangeSpecializationMod/CWSDK"]
+	path = ChangeSpecializationMod/CWSDK
+	url = https://github.com/ChrisMiuchiz/CWSDK.git
+[submodule "InfiniteStackMod/CWSDK"]
+	path = InfiniteStackMod/CWSDK
+	url = https://github.com/ChrisMiuchiz/CWSDK.git
+[submodule "LocalizationMod/CWSDK"]
+	path = LocalizationMod/CWSDK
+	url = https://github.com/ChrisMiuchiz/CWSDK.git
+[submodule "UnlockMapIconMod/CWSDK"]
+	path = UnlockMapIconMod/CWSDK
+	url = https://github.com/ChrisMiuchiz/CWSDK.git
